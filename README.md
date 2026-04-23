@@ -17,6 +17,12 @@ given me the ability to learn from AI. This is extremely important as AI can not
 that most programmers can't get away from. My goals once graduated are to not only get myself a job as a junior programmer at hopefully
 a local company, but to also start and grow my own game development company that brings back the core idea of listening to the customer
 and asking them what they would like to see done with the game they so passionately play.
+
+Overall, the artifacts within my GitHub portfolio are not standalone projects but interconnected pieces that collectively demonstrate 
+my growth as a game programmer. Each artifact builds upon the last, showcasing an expanding skill set, improved technical understanding, 
+and the ability to apply learned concepts to increasingly complex problems. Together, they provide a comprehensive view of my 
+capabilities, highlighting both my technical proficiency and my ability to iterate, refine, and develop meaningful software solutions 
+within the context of game development.
 <!---
 SRSSNHU/SRSSNHU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
