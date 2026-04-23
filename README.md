@@ -26,7 +26,7 @@ within the context of game development.
 
 Completing the Game Programming and Development program, along with developing my ePortfolio, has significantly shaped both my professional goals and my understanding of what it means to work in the game industry. Throughout the program, I moved beyond simply writing code to thinking like a developer—focusing on system design, scalability, user experience, and continuous improvement. The ePortfolio serves as a culmination of that growth, highlighting not only my technical abilities but also my ability to learn, adapt, and refine my work over time.
 
-i. Knowledge and Skills Gained
+**I. KNOWLEDGE AND SKILLS GAINED**
 
 Throughout the program and capstone experience, I developed a strong foundation in both the technical and conceptual aspects of game programming. I gained experience in:
 
@@ -38,7 +38,7 @@ Throughout the program and capstone experience, I developed a strong foundation 
 
 The capstone experience reinforced these skills by requiring me to integrate multiple concepts into a cohesive project. Rather than focusing on isolated tasks, I had to think holistically—ensuring that different systems worked together smoothly. This directly mirrors real-world game development and has prepared me for both entry-level roles and continued learning in the field.
 
-ii. Mastery of Program Outcomes
+**II. MASTER OF PROGRAM OUTCOMES**
 
 My work throughout the program demonstrates mastery of key program outcomes, including:
 
@@ -49,7 +49,7 @@ My work throughout the program demonstrates mastery of key program outcomes, inc
 
 The progression of my artifacts illustrates not just completion of tasks, but increasing confidence and independence in applying these skills.
 
-iii. Application of Game Programming Best Practices
+**III. APPLICATION OF GAME PROGRAMMING BEST PRACTICES**
 
 Throughout the program and especially during my capstone, I applied several industry-relevant best practices:
 
@@ -61,7 +61,7 @@ Throughout the program and especially during my capstone, I applied several indu
 
 These practices helped ensure that my projects were not only functional but also structured in a way that aligns with professional development standards.
 
-iv. Application to Future Goals
+**IV. APPLICATION TO FUTURE GOALS**
 
 The knowledge and experience I gained through this program and capstone directly support my future academic and professional goals. This capstone represents a transition point—from learning concepts to applying them in a practical, portfolio-ready context.
 
@@ -74,7 +74,7 @@ Moving forward, I plan to:
 
 The capstone fits into the bigger picture by serving as proof of my capabilities and readiness to contribute to real-world projects.
 
-v. Challenges and Problem-Solving
+**V. CHALLENGES AND PROBLEM-SOLVING**
 
 During my capstone experience, I encountered several challenges, including:
 
@@ -90,7 +90,7 @@ To address these challenges, I:
 
 These experiences strengthened my resilience and reinforced the importance of structured problem-solving in development.
 
-vi. Professional Ethics in Game Programming
+**VI. PROGRESSIONAL ETHICS IN GAME PROGRAMMING**
 
 Professional ethics play a critical role in the game programming field, and this program has reinforced the importance of responsible development practices. Moving forward, I will apply ethical principles by:
 
@@ -102,7 +102,7 @@ Professional ethics play a critical role in the game programming field, and this
 
 Understanding and applying these ethical considerations will help me contribute positively to the industry and build trust as a developer.
 
-Closing Reflection
+**CLOSING REFLECTION**
 
 Overall, the Game Programming and Development program and capstone experience have prepared me to enter the field with a strong technical foundation, a problem-solving mindset, and an understanding of professional best practices. My ePortfolio showcases not only what I have built, but how I have grown as a developer. This combination of skills, experience, and reflection positions me to continue developing as a game programmer and to pursue meaningful opportunities in the industry.
 <!---
