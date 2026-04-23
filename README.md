@@ -30,11 +30,11 @@ i. Knowledge and Skills Gained
 
 Throughout the program and capstone experience, I developed a strong foundation in both the technical and conceptual aspects of game programming. I gained experience in:
 
-Writing efficient, structured, and maintainable code
-Designing and implementing gameplay systems
-Debugging and problem-solving in complex scenarios
-Understanding software development lifecycles and iterative design
-Working with tools such as version control (e.g., GitHub)
+- Writing efficient, structured, and maintainable code
+- Designing and implementing gameplay systems
+- Debugging and problem-solving in complex scenarios
+- Understanding software development lifecycles and iterative design
+- Working with tools such as version control (e.g., GitHub)
 
 The capstone experience reinforced these skills by requiring me to integrate multiple concepts into a cohesive project. Rather than focusing on isolated tasks, I had to think holistically—ensuring that different systems worked together smoothly. This directly mirrors real-world game development and has prepared me for both entry-level roles and continued learning in the field.
 
@@ -42,10 +42,10 @@ ii. Mastery of Program Outcomes
 
 My work throughout the program demonstrates mastery of key program outcomes, including:
 
-Problem-solving and critical thinking: Each artifact reflects my ability to analyze requirements, break down problems, and implement effective solutions.
-Technical proficiency: My projects show growth in coding ability, from foundational logic to more complex systems and optimizations.
-Design and development skills: I demonstrated the ability to create structured, modular systems that are maintainable and scalable.
-Communication and documentation: Through my ePortfolio and repositories, I clearly present my work, making it accessible and understandable to others.
+- Problem-solving and critical thinking: Each artifact reflects my ability to analyze requirements, break down problems, and implement effective solutions.
+- Technical proficiency: My projects show growth in coding ability, from foundational logic to more complex systems and optimizations.
+- Design and development skills: I demonstrated the ability to create structured, modular systems that are maintainable and scalable.
+- Communication and documentation: Through my ePortfolio and repositories, I clearly present my work, making it accessible and understandable to others.
 
 The progression of my artifacts illustrates not just completion of tasks, but increasing confidence and independence in applying these skills.
 
@@ -53,11 +53,11 @@ iii. Application of Game Programming Best Practices
 
 Throughout the program and especially during my capstone, I applied several industry-relevant best practices:
 
-Writing clean, readable, and well-organized code
-Using modular design to separate concerns and improve maintainability
-Iterative development—testing, refining, and improving systems over time
-Version control to track changes and manage development progress
-Debugging systematically rather than relying on trial and error
+- Writing clean, readable, and well-organized code
+- Using modular design to separate concerns and improve maintainability
+- Iterative development—testing, refining, and improving systems over time
+- Version control to track changes and manage development progress
+- Debugging systematically rather than relying on trial and error
 
 These practices helped ensure that my projects were not only functional but also structured in a way that aligns with professional development standards.
 
@@ -67,10 +67,10 @@ The knowledge and experience I gained through this program and capstone directly
 
 Moving forward, I plan to:
 
-Continue refining my programming and system design skills
-Expand into more advanced areas of game development
-Build upon my existing projects to create more polished, production-ready work
-Pursue opportunities in the game industry or related software development fields
+- Continue refining my programming and system design skills
+- Expand into more advanced areas of game development
+- Build upon my existing projects to create more polished, production-ready work
+- Pursue opportunities in the game industry or related software development fields
 
 The capstone fits into the bigger picture by serving as proof of my capabilities and readiness to contribute to real-world projects.
 
@@ -78,15 +78,15 @@ v. Challenges and Problem-Solving
 
 During my capstone experience, I encountered several challenges, including:
 
-Integrating multiple systems into a cohesive project
-Debugging unexpected issues that arose during development
-Managing scope and ensuring the project remained achievable within time constraints
+- Integrating multiple systems into a cohesive project
+- Debugging unexpected issues that arose during development
+- Managing scope and ensuring the project remained achievable within time constraints
 
 To address these challenges, I:
 
-Broke problems into smaller, manageable components
-Used systematic debugging techniques to identify and resolve issues
-Prioritized core functionality before adding additional features
+- Broke problems into smaller, manageable components
+- Used systematic debugging techniques to identify and resolve issues
+- Prioritized core functionality before adding additional features
 
 These experiences strengthened my resilience and reinforced the importance of structured problem-solving in development.
 
@@ -94,11 +94,11 @@ vi. Professional Ethics in Game Programming
 
 Professional ethics play a critical role in the game programming field, and this program has reinforced the importance of responsible development practices. Moving forward, I will apply ethical principles by:
 
-Writing secure and reliable code
-Respecting intellectual property and properly crediting sources
-Designing systems that are fair and do not exploit users
-Being transparent and accountable in my work
-Continuously improving my skills to maintain professional competence
+- Writing secure and reliable code
+- Respecting intellectual property and properly crediting sources
+- Designing systems that are fair and do not exploit users
+- Being transparent and accountable in my work
+- Continuously improving my skills to maintain professional competence
 
 Understanding and applying these ethical considerations will help me contribute positively to the industry and build trust as a developer.
 
